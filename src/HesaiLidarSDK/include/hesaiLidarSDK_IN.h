@@ -2,6 +2,7 @@
 #define __PANDORA_SDK_IN_H
 
 #include <pthread.h>
+#include <boost/thread.hpp>
 #include <pcl/io/pcd_io.h>
 #include <pcl/point_types.h>
 #include <semaphore.h>
